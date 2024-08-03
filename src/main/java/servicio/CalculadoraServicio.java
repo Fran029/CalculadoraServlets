@@ -1,4 +1,4 @@
-package service;
+package servicio;
 
 public class CalculadoraServicio {
 }
